@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|c:\\users\\usuario\\documents\\projects\\colormaker\\colormaker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|c:\\users\\usuario\\documents\\projects\\colormaker\\colormaker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|c:\\users\\usuario\\documents\\projects\\colormaker\\colormaker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\ReadMe.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|c:\\users\\usuario\\documents\\projects\\colormaker\\colormaker\\colormaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{401086A2-7C19-4008-8950-24DCB0C085C4}|ColorMaker\\ColorMaker.csproj|solutionrelative:colormaker\\colormaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ColorMaker\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MauiProgram.cs",
+              "RelativeToolTip": "ColorMaker\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T04:25:46.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\ReadMe.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\ReadMe.txt",
+              "ToolTip": "C:\\Users\\Usuario\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\ReadMe.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\communitytoolkit.maui\\1.0.0\\ReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-10T04:25:16.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorMaker",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\ColorMaker.csproj",
+              "RelativeDocumentMoniker": "ColorMaker\\ColorMaker.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\ColorMaker.csproj",
+              "RelativeToolTip": "ColorMaker\\ColorMaker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T04:23:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ColorMaker\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MainPage.xaml.cs",
+              "RelativeToolTip": "ColorMaker\\MainPage.xaml.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAqwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T03:26:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ColorMaker\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Projects\\ColorMaker\\ColorMaker\\MainPage.xaml",
+              "RelativeToolTip": "ColorMaker\\MainPage.xaml",
+              "ViewState": "AQIAACkAAAAAAAAAAAD4vzgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-10T03:19:12.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
